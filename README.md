@@ -237,6 +237,8 @@ On start, application loads 15 objects and shows a list, Upon successful list di
 
 6. I was running out of time for adding tests. (I would use Jasmine for tests, would love to discuss/answer test approach and questions related to testing)
 
+7. Please note that, when we type a city name and search, there is a posibility of making a type, then we get no results. To avoid that I would use a geo location input field, instead of regular input (in real time application).
+
   
   
 
