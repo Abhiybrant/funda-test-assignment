@@ -154,12 +154,6 @@ export default {
     align-items: center;
     justify-content: space-between; 
   }
-
-  .header__logo {
-    margin-left: 4rem;
-    height: 4.5rem;
-    display: block; 
-  }
   
   .search {
     background-color: #fff;

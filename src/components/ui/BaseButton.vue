@@ -37,13 +37,13 @@ export default {
     transition: all .2s; 
   }
   
-  .btn:hover, .btn-small:hover {
+  .btn:hover {
     transform: scale(1.05); 
   }
-  .btn:focus, .btn-small:focus {
+  .btn:focus {
     outline: none; 
   }
-  .btn > *:first-child, .btn-small > *:first-child {
+  .btn > *:first-child {
     margin-right: 1rem; 
   }
   

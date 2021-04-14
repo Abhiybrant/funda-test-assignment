@@ -6,8 +6,8 @@
       </figure>
       <div class="results__data">
           <h4 class="results__name">{{address}}</h4>
-          <p class="results__people_info">{{postCode}}</p>
-          <p class="results__people_info">{{id}}</p>
+          <p class="results__object-info">{{postCode}}</p>
+          <p class="results__object-info">{{id}}</p>
       </div>
       </router-link>
   </li>
@@ -82,31 +82,11 @@ export default {
     margin-bottom: .3rem; 
   }
 
-  .results__people_info {
+  .results__object-info {
     font-size: 1.1rem;
     color: #968B87;
     text-transform: uppercase;
     font-weight: 600; 
-  }
-
-  .results__pages {
-    margin-top: 3rem;
-    padding: 0 3rem; 
-  }
-
-  .results__pages::after {
-    content: "";
-    display: table;
-    clear: both; 
-  }
-
-  .results__btn--prev {
-    float: left;
-    flex-direction: row-reverse; 
-  }
-
-  .results__btn--next {
-    float: right; 
   }
   
 </style>

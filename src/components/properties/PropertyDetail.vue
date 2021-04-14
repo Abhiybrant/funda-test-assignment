@@ -94,9 +94,7 @@ export default {
 
   .property__detail__info {
     margin-top: 10px;
-    font-size: 1.5rem;    
-    display: flex;
-    align-items: center; 
+    font-size: 1.5rem;
   }
   
   .property__detail__info:not(:last-child) {
