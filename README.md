@@ -11,29 +11,12 @@
 
   
 
-<a  href="https://github.com/othneildrew/Best-README-Template">
-
-  
-
-<img  src="images/logo.png"  alt="Logo"  width="80"  height="80">
-
-  
-
-</a>
-
-  
-
 <h3  align="center">Funda Assignment App</h3>
 
   
 
 <p  align="center">
 
-  
-
-This is a demo application build. A user can view the properties list and see the details of any particular property/object. Additionally few filtering options are provided.
-
-  
 
 <!-- TABLE OF CONTENTS -->
 
@@ -95,7 +78,7 @@ This is a demo application build. A user can view the properties list and see th
 
   
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[[See app screenshot]](https://github.com/Abhiybrant/funda-test-assignment/blob/master/src/assets/images/app-screenshot.png)
 
   
 
@@ -188,7 +171,7 @@ proxy = 'https://thingproxy.freeboard.io/fetch/';
 
 ```sh
 
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/Abhiybrant/funda-test-assignment.git
 
 ```
 
@@ -293,5 +276,3 @@ Project Link: [https://github.com/Abhiybrant/funda-assignment](https://github.co
 
 *  [Vue](https://vuejs.org)
 
-
-[product-screenshot]: src/assets/images/screenshot.png
